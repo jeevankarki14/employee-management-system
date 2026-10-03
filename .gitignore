@@ -1,0 +1,19 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Runtime Employee Management System data
+EMS File/*.txt
+!EMS File/.gitkeep
+
+# Local practice/test files
+practice*.py
+test.txt
